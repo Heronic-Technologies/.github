@@ -23,7 +23,3 @@ N/A
 ## AI Usage
 <!-- List any AI tools or models used to create code, tests, documentation, or analysis. Use "Assisted-by: None" if no AI was used. -->
 Assisted-by: None
-
-Submitted code was reviewed by a human: YES/NO
-
-The author is taking the responsibility for the contribution: YES/NO
